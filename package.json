@@ -2,11 +2,19 @@
   "name": "meu-projeto",
   "version": "1.0.0",
   "description": "Descrição do meu projeto",
-  "keywords": [ "freecodecamp", "exemplo", "projeto", "javascript" ],
+  "keywords": [
+    "freecodecamp",
+    "exemplo",
+    "projeto",
+    "javascript"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
